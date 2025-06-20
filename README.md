@@ -1,16 +1,26 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Trung</h1>
+<h3 align="center">Software Engineering Student | Laravel & React Enthusiast</h3>
 
-<!--
-**ductrung17/ductrung17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on a **Point of Sale web app for phone stores**  
+- 🌱 I’m learning **System Design** and advanced Laravel techniques  
+- 👯 I’m open to internships in **Web or Mobile development**
+- 📫 How to reach me: **ductrung.dev@gmail.com**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧰 Languages and Tools:
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=php,laravel,js,react,nodejs,mysql,firebase,vite,github,vscode&theme=light" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ductrung17&show_icons=true&theme=default&locale=en" alt="ductrung17" />
+</p>
+
+---
+
+### 🔗 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/ductrung)
