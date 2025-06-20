@@ -1,4 +1,3 @@
-<p>trung</p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/ductrung17/ductrung17/main/banner.jpg" alt="Banner" width="45%" />
 </p>
