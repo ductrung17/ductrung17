@@ -1,18 +1,30 @@
-<div align="left">
-  <img src="https://raw.githubusercontent.com/ductrung17/ductrung17/main/banner.jpg" alt="Banner1" width="45%" />
-</div>
+<!-- 👇 Banner ảnh bên trái -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ductrung17/ductrung17/main/banner.jpg" alt="Banner" width="45%" />
+</p>
 
-<h2>Nguyen Duc Trung</h2>
-- Software Engineering Student at TDT University - now.
-- Studied at Le Hong Phong Highschool for the gifted - 2022.
-- I'm actively looking for internship opportunities and eager to become a Fullstack Web Developer.
+<!-- 👇 Phần giới thiệu tên -->
+<h2 align="center">Nguyen Duc Trung</h2>
+
+<p align="center">
+  📚 Software Engineering Student at TDT University  
+  <br>🎓 Former student at Le Hong Phong High School for the Gifted (2022)  
+  <br>🚀 Currently looking for internship opportunities and passionate about becoming a Fullstack Web Developer  
+</p>
 
 ---
+
 ### 🧰 Tech Stack:
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=js,nodejs,react,flutter,mongodb,androidstudio,php,laravel,mysql,firebase,github,vscode&theme=light" />
 </p>
 
 ---
-### 🔗 Connect with me: 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/ductrung17)
+
+### 🔗 Connect with me:
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ductrung17">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
+  </a>
+</p>
