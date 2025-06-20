@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/ductrung17/ductrung17/main/banner.jpg" alt="Banner" width="45%" />
 </p>
 
-<h2 align="center">Nguyen Duc Trung</h2>
+<h2 >Nguyen Duc Trung</h2>
 
 <p >
   📚 Software Engineering Student at TDT University  
