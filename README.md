@@ -1,6 +1,6 @@
 <h3>Nguyen Duc Trung</h3>
 <div align="left">
-  <img src="https://raw.githubusercontent.com/ductrung17/ductrung17/main/banner.jpg" alt="Banner1" width="65%" />
+  <img src="https://raw.githubusercontent.com/ductrung17/ductrung17/main/banner.jpg" alt="Banner1" width="35%" />
 </div>
 
 
