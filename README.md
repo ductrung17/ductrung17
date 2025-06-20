@@ -17,9 +17,6 @@
 </p>
 ---
 
-![Status](https://img.shields.io/badge/Looking%20for-Internship-blue)
-![Code](https://img.shields.io/badge/Code-JavaScript%20%7C%20Flutter-yellow)
-![Focus](https://img.shields.io/badge/Focus-Fullstack%20Web%20Dev-brightgreen)
 
 ### 🔗 Connect with me:
 
