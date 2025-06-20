@@ -9,7 +9,9 @@
   <br>🎓 Former student at Le Hong Phong High School for the Gifted (2022)  
   <br>🚀 Currently looking for internship opportunities and passionate about becoming a Fullstack Web Developer  
 </p>
-
+![Status](https://img.shields.io/badge/Looking%20for-Internship-blue)
+![Code](https://img.shields.io/badge/Code-JavaScript%20%7C%20Flutter-yellow)
+![Focus](https://img.shields.io/badge/Focus-Fullstack%20Web%20Dev-brightgreen)
 ---
 
 ### 🧰 Tech Stack:
@@ -17,10 +19,12 @@
   <img src="https://skillicons.dev/icons?i=js,nodejs,react,flutter,mongodb,androidstudio,php,laravel,mysql,firebase,github,vscode&theme=light" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ductrung17&layout=compact&theme=default" />
+</p>
+
 ---
-![Status](https://img.shields.io/badge/Looking%20for-Internship-blue)
-![Code](https://img.shields.io/badge/Code-JavaScript%20%7C%20Flutter-yellow)
-![Focus](https://img.shields.io/badge/Focus-Fullstack%20Web%20Dev-brightgreen)
+
 
 ### 🔗 Connect with me:
 
