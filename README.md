@@ -6,7 +6,7 @@
 
 - Software Engineering Student at TDT University - now.
 - Studied at Le Hong Phong Highschool for the gifted - 2022.
-- I'm actively looking for internship opportunities.
+- I'm actively looking for internship opportunities and eager to become a Fullstack Web Developer.
 
 ---
 ### 🧰 Tech Stack:
