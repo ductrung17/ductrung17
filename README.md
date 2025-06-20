@@ -1,6 +1,7 @@
 <h3 align="center">Nguyen Duc Trung</h3>
-<h3 align="center">Software Engineering Student at TDT University</h3>
-<h3 align="center">Studied at Le Hong Phong Highschool for the gifted</h3>
+<img src="https://yourdomain.com/banner.png" alt="banner" />
+<h4>Software Engineering Student at TDT University</h4>
+<h4>Studied at Le Hong Phong Highschool for the gifted</h4>
 
 - I'm actively looking for internship opportunities.
 
