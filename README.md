@@ -1,12 +1,11 @@
-<!-- 👇 Banner ảnh bên trái -->
+<p>trung</p>p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/ductrung17/ductrung17/main/banner.jpg" alt="Banner" width="45%" />
 </p>
 
-<!-- 👇 Phần giới thiệu tên -->
 <h2 align="center">Nguyen Duc Trung</h2>
 
-<p align="center">
+<p >
   📚 Software Engineering Student at TDT University  
   <br>🎓 Former student at Le Hong Phong High School for the Gifted (2022)  
   <br>🚀 Currently looking for internship opportunities and passionate about becoming a Fullstack Web Developer  
