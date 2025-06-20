@@ -2,13 +2,10 @@
 <h3 align="center">Software Engineering Student at TDT University</h3>
 <h3 align="center">Studied at Le Hong Phong Highschool for the gifted</h3>
 
-- 🔭 I’m currently working on a **Point of Sale web app for phone stores**  
-- 🌱 I’m learning **System Design** and advanced Laravel techniques  
-- 👯 I’m open to internships in **Web or Mobile development**
-- 📫 How to reach me: **ductrung.dev@gmail.com**
+- I'm actively looking for internship opportunities.
 
 ---
-### 🧰 Languages and Tools:
+### 🧰 Tech Stack:
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js,nodejs,react,flutter,mongodb,androidstudio,php,laravel,mysql,firebase,github,vscode&theme=dark" />
 </p>
