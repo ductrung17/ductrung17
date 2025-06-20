@@ -11,8 +11,9 @@
 ---
 ### 🧰 Tech Stack:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,nodejs,react,flutter,mongodb,androidstudio,php,laravel,mysql,firebase,github,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,nodejs,react,flutter,mongodb,androidstudio,php,laravel,mysql,firebase,github,vscode&theme=light" />
 </p>
 
 ---
-### 🔗 Connect with me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/ductrung17)
+### 🔗 Connect with me: 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/ductrung17)
