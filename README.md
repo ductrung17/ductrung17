@@ -1,5 +1,5 @@
 <h3 align="center">Nguyen Duc Trung</h3>
-<img src="https://github.com/ductrung17/ductrung17/blob/main/images/banner.png" alt="banner" />
+<img src="https://github.com/ductrung17/ductrung17/banner.png" alt="banner" />
 <h4>Software Engineering Student at TDT University</h4>
 <h4>Studied at Le Hong Phong Highschool for the gifted</h4>
 
