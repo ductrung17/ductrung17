@@ -10,7 +10,7 @@
 
 ### 🧰 Languages and Tools:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,nodejs,react,mongodb,flutter,android,php,laravel,,mysql,firebase,github,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,nodejs,react,flutter,mongodb,androidstudio,php,laravel,mysql,firebase,github,vscode&theme=dark" />
 </p>
 
 ---
