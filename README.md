@@ -1,13 +1,11 @@
 <h3>Nguyen Duc Trung</h3>
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ductrung17/ductrung17/main/banner.jpg" alt="Banner1" width="50%" />
-  <img src="https://raw.githubusercontent.com/ductrung17/ductrung17/main/banner-2.jpg" alt="Banner2" width="50%" />
+<div align="left">
+  <img src="https://raw.githubusercontent.com/ductrung17/ductrung17/main/banner.jpg" alt="Banner1" width="65%" />
 </div>
 
 
-<h4>Software Engineering Student at TDT University</h4>
-<h4>Studied at Le Hong Phong Highschool for the gifted</h4>
-
+- Software Engineering Student at TDT University - now.
+- Studied at Le Hong Phong Highschool for the gifted - 2022.
 - I'm actively looking for internship opportunities.
 
 ---
