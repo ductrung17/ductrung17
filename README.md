@@ -1,5 +1,5 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ductrung17/ductrung17/main/banner.jpg" alt="Banner" width="45%" />
+<p >
+  <img src="https://raw.githubusercontent.com/ductrung17/ductrung17/main/banner.jpg" alt="Banner" width="55%" />
 </p>
 
 <h2 >Nguyen Duc Trung</h2>
