@@ -15,5 +15,4 @@
 </p>
 
 ---
-### 🔗 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/ductrung17)
+### 🔗 Connect with me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/ductrung17)
